@@ -4,12 +4,6 @@ A responsive photo gallery built with React + Vite + Tailwind CSS as part of a f
 
 ---
 
-## Live Preview
-
-> Run locally using the steps below.
-
----
-
 ## Tech Stack
 
 - **React 18** — functional components + hooks only
